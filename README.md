@@ -1,6 +1,6 @@
 # mylist
-Samurai X
-Naruto
-JoJo's
-Sakura Wars
-Gundam
+Deku
+Batman
+Lemillion
+Flash
+Iron man
